@@ -1,0 +1,74 @@
+let data = `[
+
+{
+"videoTitle": "😂 TOP BEST FAILS JANUARY 2020 😂 Funny Compilation",
+"video": "https://www.youtube.com/embed/pcj1la9-Gdw"
+},
+{
+"videoTitle": "😂 YEA, IT'S HURT 😂 Ultimate Funny Fails 2019 | Funny Compilation",
+"video": "https://www.youtube.com/embed/wDxqKp6pdvA"
+},
+{
+"videoTitle": "😂 JUST OUCH!!! 😂 Ultimate Funny Fails 2019 | Funny Compilation",
+"video": "https://www.youtube.com/embed/QxinPMA53iw"
+},
+{
+"videoTitle": "Best Fails Of Year 2019 | Funny Videos",
+"video": "https://www.youtube.com/embed/WJuKHvAf7VM"
+},
+{
+"videoTitle": "😂THE MOST UNEXPECTED MOMENTS IN LIFE 😂 Weekly Fails June 2020 | Try Not To Laugh",
+"video": "https://www.youtube.com/embed/pc5fPBY4gLU"
+},
+{
+"videoTitle": "",
+ "video": ""
+},
+{
+"videoTitle": "",
+"video": ""
+},
+{
+"videoTitle": "",
+"video": ""
+},
+{
+"videoTitle": "",
+"video": ""
+},
+{
+"videoTitle": "",
+"video": ""
+},
+{
+"videoTitle": "",
+"video": ""
+},
+{
+"videoTitle": "",
+"video": ""
+},
+{
+"videoTitle": "",
+"video": ""
+},
+{
+"videoTitle": "",
+"video": ""
+},
+{
+"videoTitle": "",
+"video": ""
+},
+{
+"videoTitle": "",
+"video": ""
+},
+{
+"videoTitle": "",
+"video": ""
+},
+{
+"videoTitle": "",
+"video": ""
+}]`;
